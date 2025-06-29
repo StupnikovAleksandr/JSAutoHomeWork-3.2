@@ -1,0 +1,27 @@
+{
+  "name": "jsautohomework-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "stupnikov",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.6"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StupnikovAleksandr/JSAutoHomeWork-3.2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StupnikovAleksandr/JSAutoHomeWork-3.2/issues"
+  },
+  "homepage": "https://github.com/StupnikovAleksandr/JSAutoHomeWork-3.2#readme",
+  "description": ""
+}
